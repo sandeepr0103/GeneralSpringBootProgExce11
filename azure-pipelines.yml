@@ -30,4 +30,4 @@ steps:
     ArtifactName: 'drop'
     publishLocation: 'Container'
 
-- script: echo '$(Pipeline.Workspace)''
+- script: echo '$(Pipeline.Workspace)'
